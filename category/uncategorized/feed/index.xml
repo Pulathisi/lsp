@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized &#8211; LSP</title>
-	<atom:link href="/lsp/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/lsp</link>
 	<description>Law Service Provider</description>
 	<lastBuildDate>Sat, 27 Jun 2020 04:52:28 +0000</lastBuildDate>
@@ -21,35 +21,35 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/lsp/2020/06/27/hello-world/</link>
-					<comments>/lsp/2020/06/27/hello-world/#comments</comments>
+		<link>2020/06/27/hello-world/</link>
+					<comments>2020/06/27/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[pulathisi]]></dc:creator>
 		<pubDate>Sat, 27 Jun 2020 04:52:28 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/lsp/?p=1</guid>
+		<guid isPermaLink="false">?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lsp/2020/06/27/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>2020/06/27/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Obtaining citizenship through court decision</title>
-		<link>/lsp/2018/11/19/lawyers-obtaining-citizenship-through-court-decision/</link>
-					<comments>/lsp/2018/11/19/lawyers-obtaining-citizenship-through-court-decision/#respond</comments>
+		<link>2018/11/19/lawyers-obtaining-citizenship-through-court-decision/</link>
+					<comments>2018/11/19/lawyers-obtaining-citizenship-through-court-decision/#respond</comments>
 		
 		<dc:creator><![CDATA[pulathisi]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2018 10:44:58 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://demosites.io/lawyers-gb/?p=38</guid>
 
-					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="/lsp/2018/11/19/lawyers-obtaining-citizenship-through-court-decision/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Obtaining citizenship through court decision</span></a>]]></description>
+					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="2018/11/19/lawyers-obtaining-citizenship-through-court-decision/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Obtaining citizenship through court decision</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2>Introduction</h2>
 
@@ -74,22 +74,22 @@
 <p>Venmo fixie knausgaard readymade. 3 wolf moon blue bottle sartorial blog. Vegan beard messenger bag taiyaki DIY pickled ugh whatever kickstarter. Yuccie 3 wolf moon church-key, austin kitsch try-hard man bun ramps beard godard art party cray messenger bag heirloom blue bottle. Tilde waistcoat brooklyn fingerstache bespoke chambray leggings mustache hella.<br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lsp/2018/11/19/lawyers-obtaining-citizenship-through-court-decision/feed/</wfw:commentRss>
+					<wfw:commentRss>2018/11/19/lawyers-obtaining-citizenship-through-court-decision/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What are the conditions for parole</title>
-		<link>/lsp/2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/</link>
-					<comments>/lsp/2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/#respond</comments>
+		<link>2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/</link>
+					<comments>2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/#respond</comments>
 		
 		<dc:creator><![CDATA[pulathisi]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2018 10:41:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://demosites.io/lawyers-gb/?p=36</guid>
 
-					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="/lsp/2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">What are the conditions for parole</span></a>]]></description>
+					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">What are the conditions for parole</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2>Introduction</h2>
 
@@ -114,22 +114,22 @@
 <p>Venmo fixie knausgaard readymade. 3 wolf moon blue bottle sartorial blog. Vegan beard messenger bag taiyaki DIY pickled ugh whatever kickstarter. Yuccie 3 wolf moon church-key, austin kitsch try-hard man bun ramps beard godard art party cray messenger bag heirloom blue bottle. Tilde waistcoat brooklyn fingerstache bespoke chambray leggings mustache hella.<br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lsp/2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/feed/</wfw:commentRss>
+					<wfw:commentRss>2018/11/19/lawyers-fla-attorney-general-sues-walgreens-cvs-in-sale-of-opioids/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>All applications for inheritance must now be filed with the court</title>
-		<link>/lsp/2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/</link>
-					<comments>/lsp/2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/#respond</comments>
+		<link>2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/</link>
+					<comments>2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/#respond</comments>
 		
 		<dc:creator><![CDATA[pulathisi]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2018 10:30:12 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://demosites.io/lawyers-gb/?p=27</guid>
 
-					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="/lsp/2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">All applications for inheritance must now be filed with the court</span></a>]]></description>
+					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">All applications for inheritance must now be filed with the court</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2>Introduction</h2>
 
@@ -154,22 +154,22 @@
 <p>Venmo fixie knausgaard readymade. 3 wolf moon blue bottle sartorial blog. Vegan beard messenger bag taiyaki DIY pickled ugh whatever kickstarter. Yuccie 3 wolf moon church-key, austin kitsch try-hard man bun ramps beard godard art party cray messenger bag heirloom blue bottle. Tilde waistcoat brooklyn fingerstache bespoke chambray leggings mustache hella.<br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lsp/2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/feed/</wfw:commentRss>
+					<wfw:commentRss>2018/11/19/lawyers-all-applications-for-inheritance-must-now-be-filed-with-the-court/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>When the creditor&#8217;s passivity helps us get rid of the execution</title>
-		<link>/lsp/2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/</link>
-					<comments>/lsp/2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/#respond</comments>
+		<link>2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/</link>
+					<comments>2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/#respond</comments>
 		
 		<dc:creator><![CDATA[pulathisi]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2018 10:28:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://demosites.io/lawyers-gb/?p=25</guid>
 
-					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="/lsp/2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">When the creditor&#8217;s passivity helps us get rid of the execution</span></a>]]></description>
+					<description><![CDATA[Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights cred iceland. Celiac schlitz la croix 3 wolf moon butcher.&#8230;&#160;<a href="2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">When the creditor&#8217;s passivity helps us get rid of the execution</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2>Introduction</h2>
 
@@ -194,7 +194,7 @@
 <p>Venmo fixie knausgaard readymade. 3 wolf moon blue bottle sartorial blog. Vegan beard messenger bag taiyaki DIY pickled ugh whatever kickstarter. Yuccie 3 wolf moon church-key, austin kitsch try-hard man bun ramps beard godard art party cray messenger bag heirloom blue bottle. Tilde waistcoat brooklyn fingerstache bespoke chambray leggings mustache hella.<br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lsp/2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/feed/</wfw:commentRss>
+					<wfw:commentRss>2018/11/19/lawyers-when-the-creditors-passivity-helps-us-get-rid-of-the-execution/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
